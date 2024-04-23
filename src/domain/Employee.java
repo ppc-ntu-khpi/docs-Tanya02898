@@ -1,4 +1,7 @@
 package domain;
+/**
+ * The Employee class represents an employee in a company.
+ */
 public class Employee {
 
     @Override
